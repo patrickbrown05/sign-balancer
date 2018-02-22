@@ -1,0 +1,13 @@
+In the folder there is the C++ source file algorithms project (working) which is the working code, 
+the two given files to be scanned by the syntax scanner,
+Hello_World and Hello_World_Wrong and finally Test which is another different text file that should have no syntac errors. 
+
+
+Hello_World is the text file with the correct syntax.
+
+Hello_World_Wrong is the file with the incorrect syntax.
+
+Test is a text file that has correct syntax but it is different from hello world and hello world wrong
+
+To run these files in the source code there is an input ifstream, all one must do is
+change the line: input1.open(" and put the file name here");
